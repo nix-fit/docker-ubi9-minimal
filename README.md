@@ -1,1 +1,1 @@
-# docker-envoy-gateway-tls-controller
+# docker-ubi9-minimal
